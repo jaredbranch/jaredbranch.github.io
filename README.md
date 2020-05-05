@@ -9,4 +9,3 @@ Technology
 About me
 
 Blog
-
