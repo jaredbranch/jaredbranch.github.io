@@ -6,6 +6,6 @@ Research
 
 Technology
 
-About me
+[About me](https://jaredbranch.github.io/aboutme)
 
 Blog
