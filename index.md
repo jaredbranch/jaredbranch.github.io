@@ -4,8 +4,6 @@ Lab
 
 Research
 
-Technology
+Blog
 
 [About me](https://jaredbranch.github.io/aboutme)
-
-Blog
