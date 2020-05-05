@@ -1,9 +1,1 @@
-# Home 
-
-Lab
-
-Research
-
-Blog
-
-[About me](https://jaredbranch.github.io/aboutme)
+Lab | Research | Blog | [About me](https://jaredbranch.github.io/aboutme)
