@@ -9,8 +9,8 @@
 Assistant Professor of [Cognitive Science](http://catalog.avila.edu/preview_program.php?catoid=14&poid=1836) at Avila University
 
 ## Research Interests
-1. The relationship between remembering and imagining.
-2. Classroom interventions that can improve critical thinking skills. 
-3. Collaborative, large-scale replication projects.
+- The relationship between remembering and imagining.
+- Classroom interventions that can improve critical thinking skills. 
+- Collaborative, large-scale replication projects.
 
 [ResearchGate](https://www.researchgate.net/profile/Jared_Branch) | [Google Scholar](https://scholar.google.com/citations?user=HnuYVnsAAAAJ&hl=en) | [Curriculum Vitae](https://drive.google.com/file/d/1Q0JiuC8dcB6SHJw_LV9OQMuo799ARIL_/view?usp=sharing)
