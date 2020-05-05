@@ -2,7 +2,7 @@ title: Jared Branch, Ph.D.
 author: Jared Branch
 email: Jared.Branch@avila.edu
 description: Dr. Jared Branch. Assistant Professor. Department of Psychology and Cognitive Science. Avila University. Memory. Future Thinking. Counterfactual Thinking. Pedagogy.
-theme: minima
+theme: jekyll-theme-cayman
 # social links
 
 show_excerpts: true # set to false to remove excerpts on the homepage
