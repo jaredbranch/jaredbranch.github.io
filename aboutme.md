@@ -1,4 +1,4 @@
-# Jared Branch, Ph.D.
+# About Me
 
 ## Education
 * Ph.D. Bowling Green State University 2017 - 2020
