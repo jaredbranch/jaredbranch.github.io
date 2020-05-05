@@ -1,6 +1,5 @@
----
-title: Jared Branch, Ph.D.
----
+# Home 
+
 Lab
 
 Research
