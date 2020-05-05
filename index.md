@@ -1,10 +1,6 @@
 ---
-title: test title
+title: Jared Branch, Ph.D.
 ---
-
-# Jared Branch, Ph.D.
-
-
 Lab
 
 Research
