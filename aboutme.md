@@ -6,7 +6,7 @@
 * M.A. Bowling Green State University 2014 - 2017
 
 ## Employment
-Assistant Professor of [Cognitive Science](http://catalog.avila.edu/preview_program.php?catoid=14&poid=1836) Avila University
+Assistant Professor of [Cognitive Science](http://catalog.avila.edu/preview_program.php?catoid=14&poid=1836) at Avila University
 
 ## Research Interests
 1. The relationship between remembering and imagining.
