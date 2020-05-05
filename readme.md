@@ -1,6 +1,5 @@
----
-Title: Jared Branch, Ph.D.
----
+#Jared Branch, Ph.D.
+
 
 Lab
 
