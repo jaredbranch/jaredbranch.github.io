@@ -1,4 +1,4 @@
-[Home](https://jaredbranch.github.io/) | Lab | Research | Blog 
+[[Home]](https://jaredbranch.github.io/) | [Lab] | [Research] | [Blog] 
 # About Me
 
 ## Education
