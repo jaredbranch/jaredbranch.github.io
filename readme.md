@@ -1,5 +1,6 @@
+---
 title: Jared Branch
-
+---
 # Jared Branch, Ph.D.
 
 
