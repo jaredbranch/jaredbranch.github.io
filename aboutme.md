@@ -14,3 +14,5 @@ I have three main lines of research:
 [Research Gate](https://www.researchgate.net/profile/Jared_Branch)
 
 [Google Scholar](https://scholar.google.com/citations?user=HnuYVnsAAAAJ&hl=en)
+
+Curriculum Vitae
