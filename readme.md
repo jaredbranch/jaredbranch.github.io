@@ -1,4 +1,6 @@
-# Jared Branch, Ph.D.
+---
+Title: Jared Branch, Ph.D.
+---
 
 Lab
 
