@@ -15,4 +15,4 @@ I have three main lines of research:
 
 [Google Scholar](https://scholar.google.com/citations?user=HnuYVnsAAAAJ&hl=en)
 
-Curriculum Vitae
+[Curriculum Vitae](https://drive.google.com/file/d/1Q0JiuC8dcB6SHJw_LV9OQMuo799ARIL_/view?usp=sharing)
