@@ -11,7 +11,7 @@ I have three main lines of research:
 2. I am interested in how students learn, and classroom interventions that can improve their critical thinking skills. 
 3. I am interested in collaborative, large-scale replication projects.
 
-[Research Gate](https://www.researchgate.net/profile/Jared_Branch)
+[ResearchGate](https://www.researchgate.net/profile/Jared_Branch)
 
 [Google Scholar](https://scholar.google.com/citations?user=HnuYVnsAAAAJ&hl=en)
 
