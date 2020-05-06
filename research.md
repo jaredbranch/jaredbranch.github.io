@@ -3,7 +3,7 @@
 
 ## Memory
 
-I am interested in how the constructive nature of our autobiographical memory system allows  for the imagining of future scenarios and alternative scenarios to the past. I study the differences in the structure of our conscious experience when we are remembering the past, simulating the future, and simulating a counterfactual past.
+I am interested in how the constructive nature of our autobiographical memory system allows  for the imagining of future scenarios and alternative scenarios to the past. 
 
 #### *Sample Publication*
 Branch, J.G. & Zickar, M.J. (2020). Involuntary mental time travel into the episodic future, episodic past, and episodic counterfactual past in everyday life. PsyArXiv. [https://doi.org/10.31234/osf.io/jbkfg](https://doi.org/10.31234/osf.io/jbkfg)
