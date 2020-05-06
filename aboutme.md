@@ -3,9 +3,16 @@
 
 ![](BranchJ(2).jpg)
 
+I am an experimental psychologist studying cognition and cognitive science via virtual reality.
+  
+* Office
+* Email: [Jared.Branch@avila.edu](mailto:Jared.Branch@avila.edu)
+* Phone
+
 ## Education
 * Ph.D. Bowling Green State University 2020
 * M.A. Bowling Green State University 2017
+* B.S. University of Utah 2008
 
 ## Employment
 Assistant Professor of [Cognitive Science](http://catalog.avila.edu/preview_program.php?catoid=14&poid=1836) at Avila University
@@ -21,5 +28,3 @@ Assistant Professor of [Cognitive Science](http://catalog.avila.edu/preview_prog
 [Google Scholar](https://scholar.google.com/citations?user=HnuYVnsAAAAJ&hl=en)
 
 [Curriculum Vitae](https://drive.google.com/file/d/1Q0JiuC8dcB6SHJw_LV9OQMuo799ARIL_/view?usp=sharing)
-
-[Jared.Branch@Avila.edu](mailto:Jared.Branch@Avila.edu)
