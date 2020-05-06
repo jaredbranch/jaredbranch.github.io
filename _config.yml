@@ -7,6 +7,9 @@ theme: jekyll-theme-cayman
 social-network-links:
   rss: true 
   email: Jared.Branch@Avila.edu
+
+share-links-active:
+  email: true 
   
 navbar-links: 
   About me: aboutme
