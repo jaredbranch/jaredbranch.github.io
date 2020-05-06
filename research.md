@@ -16,5 +16,3 @@ My research in learning centers around pedagogical interventions that can improv
 ### *Sample Publication*
 
 Branch, J.G. & Dubow, E.F. (2020). Research experience in recitation sections within introductory psychology courses: The effectiveness of a semester-long laboratory component. Scholarship of Teaching and Learning in Psychology. Advance online publication. [https://doi.org/10.1037/stl0000187](https://doi.org/10.1037/stl0000187)
-
-## Replications
