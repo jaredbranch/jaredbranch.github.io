@@ -15,6 +15,7 @@ Assistant Professor of [Cognitive Science](http://catalog.avila.edu/preview_prog
 - Classroom interventions that can improve critical thinking skills. 
 - Collaborative, large-scale replication projects.
 
+## Links
 [ResearchGate](https://www.researchgate.net/profile/Jared_Branch)
 
 [Google Scholar](https://scholar.google.com/citations?user=HnuYVnsAAAAJ&hl=en)
