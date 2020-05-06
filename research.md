@@ -5,14 +5,16 @@
 
 I am interested in how the constructive nature of our autobiographical memory system allows  for the imagining of future scenarios and alternative scenarios to the past. I study the differences in the structure of our conscious experience when we are remembering the past, simulating the future, and simulating a counterfactual past.
 
-*Sample Publication*: Branch, J.G. & Zickar, M.J. (2020). Involuntary mental time travel into the episodic future, episodic past, and episodic counterfactual past in everyday life. PsyArXiv. [https://doi.org/10.31234/osf.io/jbkfg](https://doi.org/10.31234/osf.io/jbkfg)
+### *Sample Publication*
 
-## Learning
+Branch, J.G. & Zickar, M.J. (2020). Involuntary mental time travel into the episodic future, episodic past, and episodic counterfactual past in everyday life. PsyArXiv. [https://doi.org/10.31234/osf.io/jbkfg](https://doi.org/10.31234/osf.io/jbkfg)
+
+## Pedagogy
 
 My research in learning centers around pedagogical interventions that can improve learning outcomes, such as critical thinking and skepticism.
 
-*Sample Publication*: Branch, J.G. & Dubow, E.F. (2020). Research experience in recitation sections within introductory psychology courses: The effectiveness of a semester-long laboratory component. Scholarship of Teaching and Learning in Psychology. Advance online publication. [https://doi.org/10.1037/stl0000187](https://doi.org/10.1037/stl0000187)
+### *Sample Publication*
+
+Branch, J.G. & Dubow, E.F. (2020). Research experience in recitation sections within introductory psychology courses: The effectiveness of a semester-long laboratory component. Scholarship of Teaching and Learning in Psychology. Advance online publication. [https://doi.org/10.1037/stl0000187](https://doi.org/10.1037/stl0000187)
 
 ## Replications
-
-See the [Collaborative Replications and Education Project (CREP)](https://osf.io/wfc6u/)
