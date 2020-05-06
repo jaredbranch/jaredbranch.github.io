@@ -5,6 +5,7 @@ description: Assistant Professor of Cognitive Science. Avila University. Memory.
 theme: jekyll-theme-tactile
 # social links
 social-network-links:
+  rss: true 
   email: Jared.Branch@Avila.edu
   
 navbar-links: 
