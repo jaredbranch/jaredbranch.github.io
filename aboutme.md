@@ -2,8 +2,8 @@
 # About Me
 
 ## Education
-* Ph.D. Bowling Green State University 2017 - 2020
-* M.A. Bowling Green State University 2014 - 2017
+* Ph.D. Bowling Green State University 2020
+* M.A. Bowling Green State University 2017
 
 ## Employment
 Assistant Professor of [Cognitive Science](http://catalog.avila.edu/preview_program.php?catoid=14&poid=1836) at Avila University
