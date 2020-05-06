@@ -19,7 +19,7 @@ Assistant Professor of [Cognitive Science](http://catalog.avila.edu/preview_prog
 
 ## Research Interests
 - The relationship between remembering and imagining.
-- Classroom interventions that can improve critical thinking skills. 
+- Classroom interventions that can improve learning outcomes. 
 - Collaborative, large-scale replication projects.
 
 ## Links
