@@ -1,6 +1,8 @@
 [Home](https://jaredbranch.github.io/) | [Lab](https://jaredbranch.github.io/lab) | [Research](https://jaredbranch.github.io/research) | Blog |  [About Me](https://jaredbranch.github.io/aboutme)
 # About Me
 
+![](BranchJ(2).jpg)
+
 ## Education
 * Ph.D. Bowling Green State University 2020
 * M.A. Bowling Green State University 2017
