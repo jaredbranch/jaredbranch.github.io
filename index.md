@@ -1,5 +1,5 @@
 [Home](https://jaredbranch.github.io/) | [Lab](https://jaredbranch.github.io/lab) | [Research](https://jaredbranch.github.io/research)
-
+# Home
 ![](BranchJ(2).jpg)
   
 
