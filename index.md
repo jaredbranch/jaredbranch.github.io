@@ -4,9 +4,9 @@
   
 
 ## Education
-* Ph.D. | Experimental Psychology | Bowling Green State University 2020
-* M.A. | Experimental Psychology | Bowling Green State University 2017
-* B.S. | Psychology | University of Utah 2008
+* Ph.D. Experimental Psychology, Bowling Green State University 2020
+* M.A. Experimental Psychology, Bowling Green State University 2017
+* B.S. Psychology, University of Utah 2008
 
 
 ## Employment
