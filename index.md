@@ -28,6 +28,7 @@ Assistant Professor of [Cognitive Science](http://catalog.avila.edu/preview_prog
 
 [Google Scholar](https://scholar.google.com/citations?user=HnuYVnsAAAAJ&hl=en)
 
+[OSF](https://osf.io/3b7eg/)
+
 [Curriculum Vitae](https://drive.google.com/file/d/1Q0JiuC8dcB6SHJw_LV9OQMuo799ARIL_/view?usp=sharing)
 
-[OSF](https://osf.io/3b7eg/)
