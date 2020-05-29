@@ -21,7 +21,7 @@ Assistant Professor of [Cognitive Science](http://catalog.avila.edu/preview_prog
 
 * Office
 * Email: [Jared.Branch@avila.edu](mailto:Jared.Branch@avila.edu)
-* Phone
+* Phone: (816) 501-2447
 
 ## Links
 [ResearchGate](https://www.researchgate.net/profile/Jared_Branch)
