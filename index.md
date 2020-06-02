@@ -10,7 +10,7 @@
 
 
 ## Employment
-Assistant Professor of [Cognitive Science](http://catalog.avila.edu/preview_program.php?catoid=14&poid=1836) at Avila University
+Assistant Professor of [Cognitive Science](https://www.avila.edu/academics/schools-colleges/college-of-liberal-arts-social-sciences/undergraduate-psychology/cognitive-science) at Avila University
 
 ## Research Interests
 - The relationship between remembering and imagining.
