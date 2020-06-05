@@ -13,9 +13,9 @@
 Assistant Professor of [Cognitive Science](https://www.avila.edu/academics/schools-colleges/college-of-liberal-arts-social-sciences/undergraduate-psychology/cognitive-science) at Avila University
 
 ## Research Interests
-- The relationship between remembering and imagining.
-- Classroom interventions that can improve learning outcomes. 
-- Collaborative, large-scale replication projects.
+- <em>Mental Time Travel</em>: The relationship between remembering and imagining.
+- <em>Pedagogy</em>: Classroom interventions that can improve learning outcomes. 
+- <em>Replication</em>: Collaborative, large-scale projects.
 
 ## Contact
 
