@@ -1,4 +1,4 @@
-[Home](https://jaredbranch.github.io/) | [Lab](https://jaredbranch.github.io/lab) | [Research](https://jaredbranch.github.io/research)
+[Home](https://jaredbranch.github.io/) | [Lab](https://jaredbranch.github.io/lab) | [Research](https://jaredbranch.github.io/research) | [Media](https://jaredbranch.github.io/media)
 # Lab
 
 I am actively recruiting motivated students to join my laboratory. As a member of the laboratory, you will gain experience collecting and analyzing data, writing in APA style, and designing research projects. I am especially interested in mentoring students who wish to present their work at conferences and/or as peer-reviewed articles. 
