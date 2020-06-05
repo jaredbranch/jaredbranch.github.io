@@ -6,9 +6,8 @@ I am actively recruiting motivated students to join my laboratory. As a member o
 If you are interested in joining the lab, please [send me an email](mailto:Jared.Branch@Avila.edu).
 
 ## Current Lab Projects
-* Learning & memory in virtual reality
-* The phenomenological characteristics of episodic memory
-* Simulating episodic future thoughts and episodic counterfactual thoughts
-* Clinical applications of virtual reality and episodic memory
+* Virtual Reality assisted Mental Time Travel
+* The phenomenological characteristics of episodic memory, episodic future thoughts, and episodic counterfactual thoughts
+* Clinical applications of Mental Time Travel
 * Large-scale collaborative replication projects
 
