@@ -1,4 +1,4 @@
-[Home](https://jaredbranch.github.io/) | [Lab](https://jaredbranch.github.io/lab) | [Research](https://jaredbranch.github.io/research)
+[Home](https://jaredbranch.github.io/) | [Lab](https://jaredbranch.github.io/lab) | [Research](https://jaredbranch.github.io/research) | [Media](https://jaredbranch.github.io/media)
 # Home
 ![](BranchJ(2).jpg)
   
