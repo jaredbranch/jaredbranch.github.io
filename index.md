@@ -10,7 +10,7 @@
 
 
 ## Employment
-Assistant Professor of [Cognitive Science](https://www.avila.edu/academics/schools-colleges/college-of-liberal-arts-social-sciences/undergraduate-psychology/cognitive-science) at Avila University
+Visiting Assistant Professor of [Cognitive Science](https://www.avila.edu/academics/schools-colleges/college-of-liberal-arts-social-sciences/undergraduate-psychology/cognitive-science) at Avila University
 
 ## Research Interests
 - <em>Mental Time Travel</em>. The relationship between remembering and imagining.
@@ -19,7 +19,7 @@ Assistant Professor of [Cognitive Science](https://www.avila.edu/academics/schoo
 
 ## Contact
 
-* Office
+* Office: Foyle 1018
 * Email: [Jared.Branch@avila.edu](mailto:Jared.Branch@avila.edu)
 * Phone: (816) 501-2447
 
