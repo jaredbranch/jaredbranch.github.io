@@ -14,4 +14,4 @@ Branch, J.G. & Zickar, M.J. (2020). Involuntary mental time travel into the epis
 My research in learning centers around pedagogical interventions that can improve learning outcomes, such as critical thinking and skepticism.
 
 #### *Sample Publication*
-Branch, J.G. & Dubow, E.F. (2020). Research experience in recitation sections within introductory psychology courses: The effectiveness of a semester-long laboratory component. Scholarship of Teaching and Learning in Psychology. Advance online publication. [https://doi.org/10.1037/stl0000187](https://doi.org/10.1037/stl0000187)
+Branch, J.G. & Dubow, E.F. (2020). Research experience in recitation sections within introductory psychology courses: The effectiveness of a semester-long laboratory component. Scholarship of Teaching and Learning in Psychology. Advance online publication. [PDF](BranchDubow2020.pdf)
