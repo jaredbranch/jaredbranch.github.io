@@ -14,8 +14,8 @@ Visiting Assistant Professor of [Cognitive Science](https://www.avila.edu/academ
 
 ## Research Interests
 - <em>Mental Time Travel</em>. The relationship between remembering and imagining.
-- <em>Pedagogy</em>. Classroom interventions that can improve learning outcomes. 
-- <em>Replication</em>. Collaborative, large-scale projects.
+- <em>Pedagogy</em>. Interventions aimed at obtaining a researcher-centered skill set. See [Enhancing Metacognition](https://sites.google.com/site/ttmcollaboration/home)
+- <em>Replication</em>. Collaborative, large-scale projects. See [CREP](https://osf.io/wfc6u/)
 
 ## Contact
 
