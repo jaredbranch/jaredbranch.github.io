@@ -9,5 +9,5 @@ If you are interested in joining the lab, please [send me an email](mailto:Jared
 * Virtual Reality assisted Mental Time Travel
 * The [phenomenological](https://plato.stanford.edu/entries/phenomenology/) characteristics of episodic memory, episodic future thoughts, and episodic counterfactual thoughts
 * Therapeutic and clinical applications of Mental Time Travel
-* Large-scale [collaborative replication projects](https://osf.io/wfc6u/)
+
 
