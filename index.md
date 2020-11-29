@@ -10,7 +10,7 @@
 
 
 ## Employment
-Visiting Assistant Professor of [Cognitive Science](https://www.avila.edu/academics/schools-colleges/college-of-liberal-arts-social-sciences/undergraduate-psychology/cognitive-science) at Avila University
+Visiting Assistant Professor of [Cognitive Science](https://www.avila.edu/program/cognitive-science/) at Avila University
 
 ## Research Interests
 - <em>Mental Time Travel</em>. The relationship between remembering and imagining.
