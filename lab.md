@@ -33,8 +33,5 @@ Jason lives in Kansas City, MO, and is pursuing his MSCP in the Research Tract e
 Shelby Phillips; research interests include human-machine/computer interactions, areas in social psychology that are affected by these interactions, also most recently research about addiction. I haven't fully committed to a Master's Program although if I did it would probably be through Avila, but I hope to find a position at Cerner in the KC area for the time being.
 
 ## Current Lab Projects
-* Virtual Reality assisted Mental Time Travel
-* The [phenomenological](https://plato.stanford.edu/entries/phenomenology/) characteristics of episodic memory, episodic future thoughts, and episodic counterfactual thoughts
-* Therapeutic and clinical applications of Mental Time Travel
-
-
+* Learning in COVID-19
+* Mental time travel in everyday life
