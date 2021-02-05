@@ -5,6 +5,14 @@ I am actively recruiting motivated undergraduate and graduate students to join m
 
 If you are interested in joining the lab, please [send me an email](mailto:Jared.Branch@Avila.edu).
 
+## Principal Investigator
+
+Jared Branch, Ph.D.
+
+![](BranchJ(2).jpg)
+
+I earned an associate’s degree at Weber State University in 2005, a bachelor’s in psychology from the University of Utah in 2008, and a master’s and doctoral degree from Bowling Green State University in experimental psychology (in 2017 and 2020, respectively). I am a visiting assistant professor of [cognitive science](https://www.avila.edu/program/cognitive-science/) at Avila University, and I am interested in studying mental time travel, [pedagogy](https://sites.google.com/site/ttmcollaboration/home), and [replication](https://osf.io/wfc6u/). My research makes use of several methods of cognitive science, including psychology, philosophy, and neuroscience.
+
 ## Current Lab Members
 
 ### Karlee Garrison 
