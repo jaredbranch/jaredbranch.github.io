@@ -1,5 +1,4 @@
 [Home](https://jaredbranch.github.io/) | [Lab](https://jaredbranch.github.io/lab) | [Publications](https://jaredbranch.github.io/research) 
-
 # Lab
 
 I am actively recruiting motivated undergraduate and graduate students to join my laboratory. As a member of the laboratory, you will gain experience collecting and analyzing data, writing in APA style, and designing research projects. I am especially interested in mentoring students whose research interests match my own and who wish to present their work at conferences and/or as peer-reviewed articles. 
