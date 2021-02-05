@@ -1,14 +1,8 @@
 [Home](https://jaredbranch.github.io/) | [Lab](https://jaredbranch.github.io/lab) | [Publications](https://jaredbranch.github.io/research) 
-
 # Home
   
-## Contact
+[Jared.Branch@avila.edu](mailto:Jared.Branch@avila.edu)
 
-* Office: Foyle 1018
-* Email: [Jared.Branch@avila.edu](mailto:Jared.Branch@avila.edu)
-* Phone: (816) 501-2447
-
-## Links
 [ResearchGate](https://www.researchgate.net/profile/Jared_Branch)
 
 [Google Scholar](https://scholar.google.com/citations?user=HnuYVnsAAAAJ&hl=en)
