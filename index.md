@@ -1,22 +1,6 @@
 [Home](https://jaredbranch.github.io/) | [Lab](https://jaredbranch.github.io/lab) | [Research](https://jaredbranch.github.io/research) | [Media](https://jaredbranch.github.io/media)
 # Home
-![](BranchJ(2).jpg)
   
-
-## Education
-* Ph.D. Experimental Psychology, Bowling Green State University 2020
-* M.A. Experimental Psychology, Bowling Green State University 2017
-* B.S. Psychology, University of Utah 2008
-
-
-## Employment
-Visiting Assistant Professor of [Cognitive Science](https://www.avila.edu/program/cognitive-science/) at Avila University
-
-## Research Interests
-- <em>Mental Time Travel</em>. The relationship between remembering and imagining.
-- <em>Pedagogy</em>. Interventions aimed at obtaining a researcher-centered skill set. See [Enhancing Metacognition](https://sites.google.com/site/ttmcollaboration/home)
-- <em>Replication</em>. Collaborative, large-scale projects. See [CREP](https://osf.io/wfc6u/)
-
 ## Contact
 
 * Office: Foyle 1018
