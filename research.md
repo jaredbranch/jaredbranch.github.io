@@ -1,7 +1,12 @@
 [Home](https://jaredbranch.github.io/) | [People](https://jaredbranch.github.io/lab) | [Publications](https://jaredbranch.github.io/research) 
 # Publications
+## 2021
 
-For an extensive list of lab publications, see my [ORCiD](https://orcid.org/0000-0001-8888-1305)
+Current Lab Projects
+* Learning in COVID-19
+* Mental time travel in everyday life
+
+## 2020
 
 Branch, J.G. (2020). Experimental Design as a Retrieval Method for Assessing the Phenomenological Characteristics of Episodic Memories, Episodic Future Thoughts, and Episodic Counterfactual Thoughts. *PsyArXiv* [https://psyarxiv.com/h56a9/](https://psyarxiv.com/h56a9/)
 
