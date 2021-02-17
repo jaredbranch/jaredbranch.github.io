@@ -1,7 +1,7 @@
 [Home](https://jaredbranch.github.io/) | [People](https://jaredbranch.github.io/lab) | [Publications](https://jaredbranch.github.io/research) 
 # People
 
-I am actively recruiting motivated undergraduate and graduate students to join my laboratory. As a member of the laboratory, you will gain experience collecting and analyzing data, writing in APA style, and designing research projects. I am especially interested in mentoring students whose research interests match my own and who wish to present their work at conferences and/or as peer-reviewed articles. 
+I am actively recruiting motivated undergraduate and graduate students to join my laboratory. As a member of the laboratory, you will gain experience designing research projects, collecting and analyzing data, and writing in APA style. I am especially interested in mentoring students whose research interests match my own and who wish to present their work at conferences and/or as peer-reviewed articles. 
 
 If you are interested in joining the lab, please [send me an email](mailto:Jared.Branch@Avila.edu).
 
