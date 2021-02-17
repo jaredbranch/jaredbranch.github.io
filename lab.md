@@ -7,7 +7,7 @@ If you are interested in joining the lab, please [send me an email](mailto:Jared
 
 ## Principal Investigator
 
-Jared Branch, Ph.D.
+### Jared Branch, Ph.D.
 
 ![](BranchJ(2).jpg)
 
