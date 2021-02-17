@@ -1,4 +1,4 @@
-[People](https://jaredbranch.github.io/lab) | [Publications](https://jaredbranch.github.io/research) 
+[Home](https://jaredbranch.github.io/) | [People](https://jaredbranch.github.io/lab) | [Publications](https://jaredbranch.github.io/research) 
 # Publications
 
 For an extensive list of lab publications, see my [ORCiD](https://orcid.org/0000-0001-8888-1305)
