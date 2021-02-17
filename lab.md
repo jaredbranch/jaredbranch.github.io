@@ -42,7 +42,3 @@ Jason lives in Kansas City, MO, and is pursuing his MSCP in the Research Tract e
 ![](Shelby.JPG)
 
 My research interests include human-machine/computer interactions, areas in social psychology that are affected by these interactions, also most recently research about addiction. I haven't fully committed to a Master's Program although if I did it would probably be through Avila, but I hope to find a position at Cerner in the KC area for the time being.
-
-## Current Lab Projects
-* Learning in COVID-19
-* Mental time travel in everyday life
