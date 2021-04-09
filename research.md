@@ -2,8 +2,8 @@
 # Publications
 
 ## Current Lab Projects
-* Learning in COVID-19
-* Mental time travel in everyday life
+* Virtual learning during COVID-19
+* Individual differences in mental time travel
 
 
 ## 2021
