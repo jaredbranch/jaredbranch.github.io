@@ -1,4 +1,4 @@
-[Home](https://jaredbranch.github.io/) | [People](https://jaredbranch.github.io/lab) | [Publications](https://jaredbranch.github.io/research) 
+[Home](https://jaredbranch.github.io/) | [People](https://jaredbranch.github.io/lab) | [Publications](https://jaredbranch.github.io/research) | [Media](https://jaredbranch.github.io/media)
 # Publications
 
 ## Current Lab Projects
