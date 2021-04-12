@@ -8,7 +8,7 @@
 
 ## 2021
 
-Branch, J.G. & Zickar, M.J. (2020). Mental time travel into the episodic future, episodic past, and episodic counterfactual past in everyday life. *Applied Cognitive Psychology.*  [https://doi.org/10.1002/acp.3765](https://doi.org/10.1002/acp.3765)
+Branch, J.G. & Zickar, M.J. (2021). Mental time travel into the episodic future, episodic past, and episodic counterfactual past in everyday life. *Applied Cognitive Psychology.*  [https://doi.org/10.1002/acp.3765](https://doi.org/10.1002/acp.3765)
 
 
 ## 2020
