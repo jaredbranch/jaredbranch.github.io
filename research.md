@@ -13,4 +13,4 @@ Branch, J.G. & Zickar, M.J. (2021). Mental time travel into the episodic future,
 
 ## 2020
 
-Branch, J.G. & Dubow, E.F. (2020). [Research experience in recitation sections within introductory psychology courses: The effectiveness of a semester-long laboratory component](BranchDubow2020.pdf). *Scholarship of Teaching and Learning in Psychology.* Advance online publication. [https://doi.org/10.1037/stl0000187](https://doi.org/10.1037/stl0000187) ([PDF](BranchDubow2020.pdf))
+Branch, J.G. & Dubow, E.F. (2020). [Research experience in recitation sections within introductory psychology courses: The effectiveness of a semester-long laboratory component](BranchDubow2020.pdf). *Scholarship of Teaching and Learning in Psychology.* Advance online publication. [https://doi.org/10.1037/stl0000187](https://doi.org/10.1037/stl0000187) 
